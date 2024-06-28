@@ -1,1 +1,2 @@
-# Beginner-PoweBI-Dashboards
+# Beginner-PowerBI-Dashboards
+## Check these Snapshots before accessing the dashboards
